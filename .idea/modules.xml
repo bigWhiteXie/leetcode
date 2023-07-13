@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-数据结构/01-数据结构.iml" filepath="$PROJECT_DIR$/01-数据结构/01-数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码随想录/代码随想录.iml" filepath="$PROJECT_DIR$/代码随想录/代码随想录.iml" />
+      <module fileurl="file://$PROJECT_DIR$/左程云系列/左程云系列.iml" filepath="$PROJECT_DIR$/左程云系列/左程云系列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/生产消费者问题/生产消费者问题.iml" filepath="$PROJECT_DIR$/生产消费者问题/生产消费者问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+    </modules>
+  </component>
+</project>
